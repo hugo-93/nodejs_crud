@@ -1,0 +1,11 @@
+{
+  "name": "tesis_crud_node",
+  "version": "1.0.0",
+  "description": "Actividad 01: CRUD con MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Ayón",
+  "license": "ISC"
+}

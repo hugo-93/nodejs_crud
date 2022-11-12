@@ -1,0 +1,540 @@
+[{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080b3"
+  },
+  "id": 74,
+  "siglas": "BP",
+  "descripcion": "Bosque de la Primavera"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080b4"
+  },
+  "id": 140,
+  "siglas": "PEEJ",
+  "descripcion": "Poder Ejecutivo del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080b5"
+  },
+  "id": 138,
+  "siglas": "ADICD",
+  "descripcion": "Agencia para el Desarrollo de Industrias Creativas y Digitales del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080b6"
+  },
+  "id": 75,
+  "siglas": "COBAEJ",
+  "descripcion": "Colegio de Bachilleres del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080b7"
+  },
+  "id": 76,
+  "siglas": "CONALEP",
+  "descripcion": "Colegio de Educación Profesional Técnica del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080b8"
+  },
+  "id": 77,
+  "siglas": "CECYTEJ",
+  "descripcion": "Colegio de Estudios Cientificos y Tecnologicos del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080b9"
+  },
+  "id": 78,
+  "siglas": "CAMEJAL",
+  "descripcion": "Comisión de Arbitraje Médico del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080ba"
+  },
+  "id": 79,
+  "siglas": "CEA",
+  "descripcion": "Comisión Estatal del Agua de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080bb"
+  },
+  "id": 80,
+  "siglas": "CEI",
+  "descripcion": "Comisión Estatal Indigena"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080bc"
+  },
+  "id": 81,
+  "siglas": "COECYTJAL",
+  "descripcion": "Consejo Estatal de Ciencia y Tecnología"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080bd"
+  },
+  "id": 82,
+  "siglas": "CEPE",
+  "descripcion": "Consejo Estatal de Promoción Económica"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080be"
+  },
+  "id": 83,
+  "siglas": "CETOT",
+  "descripcion": "Consejo Estatal de Trasplantes de Órganos y Tejidos"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080bf"
+  },
+  "id": 84,
+  "siglas": "CODE",
+  "descripcion": "Consejo Estatal para el Fomento Deportivo"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080c0"
+  },
+  "id": 85,
+  "siglas": "ECRO",
+  "descripcion": "Escuela de Conservación y Restauración de Occidente"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080c1"
+  },
+  "id": 86,
+  "siglas": "HOC",
+  "descripcion": "Hogar Cabañas"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080c2"
+  },
+  "id": 87,
+  "siglas": "HCG",
+  "descripcion": "Hospital Civil de Guadalajara"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080c3"
+  },
+  "id": 88,
+  "siglas": "INJALRESO",
+  "descripcion": "Industria Jalisciense de Rehabilitación Social"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080c4"
+  },
+  "id": 89,
+  "siglas": "ICC",
+  "descripcion": "Instituto Cultural Cabañas"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080c5"
+  },
+  "id": 90,
+  "siglas": "JALTRADE",
+  "descripcion": "Instituto de Fomento al Comercio Exterior del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080c6"
+  },
+  "id": 91,
+  "siglas": "IDEFT",
+  "descripcion": "Instituto de Formación para el Trabajo del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080c7"
+  },
+  "id": 92,
+  "siglas": "IIEG",
+  "descripcion": "Instituto de Información Estadistica y Geográfica del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080c8"
+  },
+  "id": 93,
+  "siglas": "IAJ",
+  "descripcion": "Instituto de la Artesanía Jalisciense"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080c9"
+  },
+  "id": 94,
+  "siglas": "INFEJAL",
+  "descripcion": "Instituto de la Infraestructura Fisica Educativa del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080ca"
+  },
+  "id": 95,
+  "siglas": "IMYT",
+  "descripcion": "Instituto de Movilidad y Transporte del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080cb"
+  },
+  "id": 96,
+  "siglas": "IPEJAL",
+  "descripcion": "Instituto de Pensiones del Estado"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080cc"
+  },
+  "id": 97,
+  "siglas": "INEEJAD",
+  "descripcion": "Instituto Estatal para la Educación de Jóvenes y Adultos"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080cd"
+  },
+  "id": 98,
+  "siglas": "IJAS",
+  "descripcion": "Instituto Jalisciense de Asistencia Social"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080ce"
+  },
+  "id": 99,
+  "siglas": "IJC",
+  "descripcion": "Instituto Jalisciense de Cancerología"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080cf"
+  },
+  "id": 100,
+  "siglas": "IJCF",
+  "descripcion": "Instituto Jalisciense de Ciencias Forenses"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080d0"
+  },
+  "id": 101,
+  "siglas": "IJJ",
+  "descripcion": "Instituto Jalisciense de la Juventud"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080d1"
+  },
+  "id": 102,
+  "siglas": "IJALVI",
+  "descripcion": "Instituto Jalisciense de la Vivienda"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080d2"
+  },
+  "id": 103,
+  "siglas": "IJM",
+  "descripcion": "Instituto Jalisciense de las Mujeres"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080d3"
+  },
+  "id": 104,
+  "siglas": "IJAM",
+  "descripcion": "Instituto Jalisciense del Adulto Mayor"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080d4"
+  },
+  "id": 105,
+  "siglas": "INJALDEM",
+  "descripcion": "Instituto Jalisciense del Emprendedor"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080d5"
+  },
+  "id": 106,
+  "siglas": "ITJMMPH",
+  "descripcion": "Instituto Tecnológico José Mario Molina Pasquel y Henríquez"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080d6"
+  },
+  "id": 107,
+  "siglas": "OOPS",
+  "descripcion": "Organismo Operador del Parque de la Solidaridad"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080d7"
+  },
+  "id": 108,
+  "siglas": "PMG",
+  "descripcion": "Parque Metropolitano de Guadalajara"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080d8"
+  },
+  "id": 109,
+  "siglas": "PFOZMG",
+  "descripcion": "Patronato Fiestas de Octubre de la Zona Metropolitana de Guadalajara"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080d9"
+  },
+  "id": 110,
+  "siglas": "PRODEUR",
+  "descripcion": "Procuraduría de Desarrollo Urbano"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080da"
+  },
+  "id": 111,
+  "siglas": "SSJ",
+  "descripcion": "Servicios de Salud Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080db"
+  },
+  "id": 112,
+  "siglas": "SyT",
+  "descripcion": "Servicios y Transportes"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080dc"
+  },
+  "id": 113,
+  "siglas": "SEAPAL VALLARTA",
+  "descripcion": "Sistema de los Servicios de Agua Potable, Drenaje y Alcantarillado de Puerto Vallarta, Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080dd"
+  },
+  "id": 114,
+  "siglas": "SITEUR",
+  "descripcion": "Sistema de Tren Eléctrico Urbano"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080de"
+  },
+  "id": 115,
+  "siglas": "SIAPA",
+  "descripcion": "Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080df"
+  },
+  "id": 116,
+  "siglas": "SJRyTV",
+  "descripcion": "Sistema Jalisciense de Radio y Televisión RyTV"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080e0"
+  },
+  "id": 117,
+  "siglas": "DIF",
+  "descripcion": "Sistema para el Desarrollo Integral de la Familia"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080e1"
+  },
+  "id": 139,
+  "siglas": "SESEAJ",
+  "descripcion": "Secretaría Ejecutiva Sistema Estatal Anticorrupción de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080e2"
+  },
+  "id": 118,
+  "siglas": "UEPCB",
+  "descripcion": "Unidad Estatal de Protección Civil y Bomberos de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080e3"
+  },
+  "id": 119,
+  "siglas": "REPSS",
+  "descripcion": "Régimen Estatal de Protección Social de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080e4"
+  },
+  "id": 120,
+  "siglas": "UPZMG",
+  "descripcion": "Universidad Politécnica de la Zona Metropolitana de Guadalajara"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080e5"
+  },
+  "id": 121,
+  "siglas": "UTJ",
+  "descripcion": "Universidad Tecnológica de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080e6"
+  },
+  "id": 122,
+  "siglas": "UTZMG",
+  "descripcion": "Universidad Tecnológica de la Zona Metropolitana de Guadalajara"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080e7"
+  },
+  "id": 123,
+  "siglas": "UDG",
+  "descripcion": "Universidad de Guadalajara"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080e8"
+  },
+  "id": 124,
+  "siglas": "AE",
+  "descripcion": "Agencia de Energia el Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080e9"
+  },
+  "id": 125,
+  "siglas": "FOJAL",
+  "descripcion": "Fideicomiso Fondo Jalisco de Fomento Empresarial"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080ea"
+  },
+  "id": 126,
+  "siglas": "CCD",
+  "descripcion": "Fideicomiso Ciudad Creativa Digital"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080eb"
+  },
+  "id": 127,
+  "siglas": "FIPRODEFO",
+  "descripcion": "Fideicomiso para la Administración del Programa para el Desarrollo Forestal del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080ec"
+  },
+  "id": 128,
+  "siglas": "OFJ",
+  "descripcion": "Fideicomiso de la Orquesta Filarmónica de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080ed"
+  },
+  "id": 129,
+  "siglas": "C5",
+  "descripcion": "Centro de Coordinación, Comando, Control, Comunicaciones y Computo del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080ee"
+  },
+  "id": 130,
+  "siglas": "SISTECOZOME",
+  "descripcion": "Sistema de Transporte Colectivo de la Zona Metropolitana"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080ef"
+  },
+  "id": 131,
+  "siglas": "FIDEUR",
+  "descripcion": "Fideicomiso para el Desarrollo Urbano del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080f0"
+  },
+  "id": 132,
+  "siglas": "AEEJ",
+  "descripcion": "Agencia Estatal de Entretenimiento de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080f1"
+  },
+  "id": 136,
+  "siglas": "MEGJ",
+  "descripcion": "Museos, Exposiciones y Galerías de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080f2"
+  },
+  "id": 137,
+  "siglas": "AIRE",
+  "descripcion": "Agencia Integral de Regulación de Emisiones"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080f3"
+  },
+  "id": 141,
+  "siglas": "CE",
+  "descripcion": "Congreso del Estado"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080f4"
+  },
+  "id": 142,
+  "siglas": "ASE",
+  "descripcion": "Auditoria Superior del Estado"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080f5"
+  },
+  "id": 143,
+  "siglas": "STJ",
+  "descripcion": "Supremo Tribunal de Justicia"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080f6"
+  },
+  "id": 144,
+  "siglas": "IJA",
+  "descripcion": "Instituto de Justicia Alternativa"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080f7"
+  },
+  "id": 145,
+  "siglas": "CJJ",
+  "descripcion": "Consejo de la Judicatura"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080f8"
+  },
+  "id": 146,
+  "siglas": "CEDHJ",
+  "descripcion": "Comisión Estatal de Derechos Humanos de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080f9"
+  },
+  "id": 147,
+  "siglas": "IEPC",
+  "descripcion": "Instituto Electoral y de Participación Ciudadana"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080fa"
+  },
+  "id": 148,
+  "siglas": "ITEI",
+  "descripcion": "Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080fb"
+  },
+  "id": 149,
+  "siglas": "TEEJ",
+  "descripcion": "Tribunal Electoral del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "6368809f23c5ca68a64080fc"
+  },
+  "id": 150,
+  "siglas": "TJAJAL",
+  "descripcion": "Tribunal de Justicia Administrativa del Estado de Jalisco"
+},{
+  "_id": {
+    "$oid": "63697f9a05cc7a0ae74b7694"
+  },
+  "siglas": "H1",
+  "descripcion": "Hugo ente 01",
+  "id": 151
+},{
+  "_id": {
+    "$oid": "63698e25688626551b09cfff"
+  },
+  "siglas": "H2",
+  "descripcion": "Hugo ente 02",
+  "id": 152
+},{
+  "_id": {
+    "$oid": "63698e4c688626551b09d001"
+  },
+  "siglas": "H3",
+  "descripcion": "Hugo ente 03",
+  "id": 153
+}]
